@@ -1,0 +1,19 @@
+.img-fluid {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.welcome {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: .5rem;
+}
+
+.welcome hr {
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}

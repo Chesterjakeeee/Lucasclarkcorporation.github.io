@@ -1,0 +1,61 @@
+.img-fluid {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.welcome {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: .5rem;
+}
+
+.welcome hr {
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: .2rem;
+    margin-bottom: 1rem;
+}
+
+#CEOrow,
+#ACrow {
+    padding-top: 20px;
+    padding-right: 0%;
+}
+
+#CEO,
+#AC {
+    height: 100%;
+    width: 50%;
+    margin-left: 30%
+}
+
+#CEOinfo,
+#ACinfo {
+    text-align: justify;
+    text-justify: inter-word;
+    padding-top: 7%;
+    padding-right: 7%;
+}
+
+#VProw,
+#LCrow {
+    padding-top: 20px;
+    padding-right: 0%;
+}
+
+#VP,
+#LC {
+    height: 100%;
+    width: 50%;
+    margin-left: 30%
+}
+
+#VPinfo,
+#LCinfo {
+    text-align: justify;
+    text-justify: inter-word;
+    padding-top: 7%;
+    padding-left: 7%;
+}
